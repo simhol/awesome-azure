@@ -23,7 +23,7 @@ Review the Contributing Guidelines.
 ## Contents
 
 - [Services](https://azure.microsoft.com/en-us/products/)
-  - [AI + Machine Learning](https://azure.microsoft.com/en-us/overview/ai-platform/)
+  - <a href="https://azure.microsoft.com/en-us/overview/ai-platform/" target="_blank">AI + Machine Learning</a>
   - [Analytics](https://azure.microsoft.com/en-us/products/category/analytics/)
   - [Compute](https://azure.microsoft.com/en-us/products/category/compute/)
   - [Containers](https://azure.microsoft.com/en-us/products/category/containers/)
